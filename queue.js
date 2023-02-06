@@ -33,3 +33,5 @@ class Queue {
         console.log(this.storage)
     }
 }
+
+const queue = new Queue()

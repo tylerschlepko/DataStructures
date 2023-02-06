@@ -98,3 +98,5 @@ list.prepend(7)
 list.removeFromBack()
 list.print()
 console.log(list.removeFromFront())
+
+module.exports = LinkedList
