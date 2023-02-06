@@ -22,10 +22,10 @@ class LinkedListStack {
     }
 
     getSize() {
-        this.list.getSize()
+        return this.list.getSize()
     }
 
     print() {
-        this.list.print()
+        return this.list.print()
     }
 }
